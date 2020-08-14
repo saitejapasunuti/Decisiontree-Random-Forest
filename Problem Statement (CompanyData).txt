@@ -1,0 +1,4 @@
+Problem Statement:
+A cloth manufacturing company is interested to know about the segment or attributes contributing to high sale.
+
+Approach - A decision tree can be built with target variable 'Sale' (we will first convert it into categorical variable) & all other variables will be independent in the analysis.

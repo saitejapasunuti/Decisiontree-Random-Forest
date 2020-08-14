@@ -1,0 +1,2 @@
+Problem Statement:
+Divide the data (Diabetes) into training and test datasets and create a Random Forest Model to classify 'Class Variable'.
